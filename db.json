@@ -1,0 +1,58 @@
+{
+  "cricketers": [
+    {
+      "id": 1,
+      "name": "Virat Kohli",
+      "country": "India",
+      "dob": "1988-11-05",
+      "age": 35,
+      "activePeriod": "2008-2023",
+      "image": "https://media.gettyimages.com/id/1436938531/photo/india-v-netherlands-icc-mens-t20-world-cup.jpg?s=612x612&w=gi&k=20&c=rFUjinw6kvAvA8WA5A9p6EmTixSoXE9BhczhZjNZRhE="
+    },
+    {
+      "id": 2,
+      "name": "Sachin Tendulkar",
+      "country": "India",
+      "dob": "1973-04-24",
+      "age": 51,
+      "activePeriod": "1989-2013",
+      "image": "https://media.gettyimages.com/id/110022742/photo/nagpur-india-sachin-tendulkar-of-india-raises-his-bat-on-scoring-his-century-during-the-group.jpg?s=612x612&w=gi&k=20&c=yp93_RqUIen9_fHvGA6urUdV5UFIZ-JimL2RHKrYXW8="
+    },
+    {
+      "name": "Imran Khan",
+      "country": "Pakistan",
+      "dob": "1952-10-05",
+      "age": "71",
+      "activePeriod": "1971–1992",
+      "image": "https://i.pinimg.com/736x/78/5f/8a/785f8a7c6115b52a02ee5e81c89b873f.jpg",
+      "id": 3
+    },
+    {
+      "name": "Inzamam-ul-Haq",
+      "country": "Pakistan",
+      "dob": "1970-03-03",
+      "age": "54",
+      "activePeriod": "1991–2007",
+      "image": "https://c8.alamy.com/comp/2D353J2/pakistan-captain-inzamam-ul-haq-leaves-the-field-after-victory-against-zimbabwe-in-the-icc-cricket-world-cup-2007-match-at-sabina-park-kingston-jamaica-2D353J2.jpg",
+      "id": 4
+    },
+    {
+      "name": "Shane Warne",
+      "country": "Australia",
+      "dob": "1969-09-13",
+      "age": "52",
+      "activePeriod": "1992--2007",
+      "image": "https://facts.net/wp-content/uploads/2023/10/16-enigmatic-facts-about-shane-warne-1696943923.jpg",
+      "id": 6
+    },
+    {
+      "name": "Viv Richards",
+      "country": "West Indies",
+      "dob": "1952-03-07",
+      "age": "72",
+      "activePeriod": "1974-1991",
+      "image": "https://afistfulofsalt.com/wp-content/uploads/2020/11/viv-richards_getty-images.jpg",
+      "id": 7
+    }
+  ]
+}

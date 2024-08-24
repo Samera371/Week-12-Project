@@ -1,0 +1,26 @@
+/* Set the background color of the entire page */
+body {
+    background-color: #747677; /* A shade of gray */
+}
+
+/* Style the container that holds the list of cricketers */
+#cricketers-list {
+    display: flex; /* Use flexbox layout */
+    flex-wrap: wrap; /* Allow items to wrap onto multiple lines */
+}
+
+/* Style each individual cricketer card */
+.cricketer-card {
+    border: 1px solid #a53c3c; /* Red border around each card */
+    border-radius: 5%; /* Rounded corners for the card */
+    margin: 10px; /* Space around each card */
+    padding: 20px; /* Space inside each card */
+    width: 200px; /* Fixed width for each card */
+    text-align: center; /* Center-align text inside the card */
+}
+
+/* Style the image inside each cricketer card */
+.cricketer-card img {
+    max-width: 50%; /* Limit the image width to 50% of the card width */
+    border-radius: 5px; /* Slightly rounded corners for the image */
+}
